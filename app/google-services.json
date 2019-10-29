@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "590149203795",
+    "firebase_url": "https://nachoapp-adca5.firebaseio.com",
+    "project_id": "nachoapp-adca5",
+    "storage_bucket": "nachoapp-adca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590149203795:android:19cc21a3de17f2ff2a53a6",
+        "android_client_info": {
+          "package_name": "com.patofernandez.nachoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590149203795-abovp6iln3gj3bqv73kdqtp47rabgu8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patofernandez.nachoapp",
+            "certificate_hash": "20ff378278aff00f7878b43f0653e61f3f245c61"
+          }
+        },
+        {
+          "client_id": "590149203795-74g7mtpgj5ma1691coe2q4o2b5li4jt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsNumWm0MXDCipoffhvaurWg5_dTgXk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590149203795-74g7mtpgj5ma1691coe2q4o2b5li4jt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
